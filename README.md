@@ -5,7 +5,6 @@ this template includes:
 - Vue 3
 - TypeScript
 - TSX
-- Rollup
 - Eslint
 - Prettier
 
@@ -14,7 +13,7 @@ It will help you to create own component
 ## Getting Started
 
 ```bash
-npx degit Houtaroy/vue-component-template my-component
+npx degit houtaroy/vue-component-template my-component
 cd my-component
 ```
 
@@ -36,4 +35,4 @@ pnpm build
 
 ## Utils
 
-provide a [componentUtil](https://github.com/Houtaroy/vue-component-template/tree/main/packages/utils/ComponentUtil.ts) to set `install` to your component
+provide a [componentUtil](https://github.com/houtaroy/vue-component-template/tree/main/package/utils/ComponentUtil.ts) to set `install` to your component
