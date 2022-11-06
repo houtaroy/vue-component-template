@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <custom />
+  <my-component />
 </template>
 
 <style>

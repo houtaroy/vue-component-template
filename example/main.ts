@@ -1,8 +1,8 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import Custom from '../packages';
+import MyComponent from '../lib/my-component';
 
 const app = createApp(App);
-app.use(Custom);
+app.use(MyComponent);
 
 app.mount('#app');
