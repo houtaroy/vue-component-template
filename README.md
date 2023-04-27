@@ -21,16 +21,16 @@ yarn:
 
 ```bash
 yarn
-yarn dev
 yarn build
+yarn dev
 ```
 
 pnpm:
 
 ```bash
 pnpm install
-pnpm dev
 pnpm build
+pnpm dev
 ```
 
 ## Utils
